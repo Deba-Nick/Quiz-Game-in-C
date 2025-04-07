@@ -1,0 +1,51 @@
+1.What is the result of 5 & 3 in C?
+a) 1
+b) 2
+c) 3
+d) 5
+
+Answer: (a) 
+
+2.What will be the output of this code?
+
+int x = 7, y = 10;  
+if (x < y && x != 0)  
+    printf("True");  
+else  
+    printf("False"); 
+ 
+a) True
+b) False
+c) Compilation Error
+d) Runtime Error
+
+Answer: (a) 
+
+3.How do you access the last element of an array arr of size 5?
+
+a) arr[5]
+b) arr[4]
+c) arr[-1]
+d) arr[last]
+
+Answer: (b) 
+
+4.What will be the output of the following statement?
+
+printf("%d", 5 > 3 ? 10 : 20);  
+a) 10
+b) 20
+c) 5
+d) Compilation Error
+
+Answer: (a) 
+
+5.What happens if you access an array index out of bounds?
+
+a) Returns default value
+b) Compilation error
+c) Undefined behavior
+d) Prints last element
+
+Answer: (c) 
+

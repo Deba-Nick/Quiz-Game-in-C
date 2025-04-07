@@ -1,0 +1,52 @@
+1.What will be the output of the following code?
+
+int a = 5, b = 3;  
+printf("%d", a % b);  
+a) 2
+b) 1
+c) 0
+d) Compilation Error
+
+Answer: (a) 
+
+2.Which of the following is a relational operator in C?
+a) &&
+b) >=
+c) ++
+d) <<
+
+Answer: (b) 
+
+3.What is the default value of an uninitialized array in C?
+
+a) 0
+b) Garbage value
+c) Depends on compiler
+d) Error occurs
+
+Answer: (b) 
+
+4.What will be the output of the following conditional statement?
+
+int a = 10;  
+if (a = 5)  
+    printf("Hello");  
+else  
+    printf("World");  
+
+a) Hello
+b) World
+c) Compilation Error
+d) No Output
+
+Answer: (a) 
+
+5.How do you declare an integer array of size 10 in C?
+
+a) int arr(10);
+b) int arr[10];
+c) array int[10];
+d) arr[10] int;
+
+Answer: (b) 
+
